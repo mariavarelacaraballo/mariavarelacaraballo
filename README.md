@@ -16,7 +16,7 @@ I work where wireless communications meet machine learning: **6G**, **Non-Terres
 |---|---|---|
 | [**sionna-leo-neural-receiver**](https://github.com/mariavarelacaraballo/sionna-leo-neural-receiver) | Neural vs. classical (LS/LMMSE) OFDM receivers on a LEO satellite-to-ground link with Doppler | Python · PyTorch · Sionna |
 | [**NeuroVoice**](https://github.com/mariavarelacaraballo/hackParis) | Hackathon project (Paris, 2026): an agent that turns a few letters into the full sentence a person with ALS wants to say, in their own voice | Python · FastAPI · PostgreSQL · ElevenLabs |
-| [**DACIU**](https://github.com/mariavarelacaraballo/DACIU) | Physiological signal processing (ECG/EDA) to support communication with non-verbal people — research at the Signal Theory lab, Universidad de Sevilla | Python · Jupyter |
+| [**daciu-physio-pipeline**](https://github.com/mariavarelacaraballo/daciu-physio-pipeline) | Wearable physiology pipeline (BVP, EDA, temperature, EMG, IMU) for stress detection, from my thesis on non-verbal communication support — validated on WESAD | Python · SciPy · scikit-learn |
 | [**WorldBook**](https://github.com/mariavarelacaraballo/WorldBook) | A social network to swap books and get young people reading — my first full-stack project | PHP · MySQL · JS |
 
 ## 🛠️ Toolbox
