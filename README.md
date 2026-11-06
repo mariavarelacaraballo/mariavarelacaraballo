@@ -4,13 +4,13 @@ Telecommunications Engineer (Universidad de Sevilla) and M2 student in **Advance
 
 I work where wireless communications meet machine learning: **6G**, **Non-Terrestrial Networks (LEO satellites)** and **learned physical-layer receivers**, with a background in **biomedical signal processing**.
 
-## 🔭 Right now
+##  Right now
 
-- 🛰️ Building a **neural OFDM receiver for LEO satellite links** under high Doppler with NVIDIA Sionna
-- 📡 Studying advanced radiocommunications & AI in Paris
-- 🗣️ Exploring affective voice interfaces for people who can't speak (NeuroVoice)
+-  Building a **neural OFDM receiver for LEO satellite links** under high Doppler with NVIDIA Sionna
+-  Studying advanced radiocommunications & AI in Paris
+-  Exploring affective voice interfaces for people who can't speak (NeuroVoice)
 
-## 🧪 Selected projects
+##  Selected projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -19,15 +19,15 @@ I work where wireless communications meet machine learning: **6G**, **Non-Terres
 | [**daciu-physio-pipeline**](https://github.com/mariavarelacaraballo/daciu-physio-pipeline) | Wearable physiology pipeline (BVP, EDA, temperature, EMG, IMU) for stress detection, from my thesis on non-verbal communication support — validated on WESAD | Python · SciPy · scikit-learn |
 | [**WorldBook**](https://github.com/mariavarelacaraballo/WorldBook) | A social network to swap books and get young people reading — my first full-stack project | PHP · MySQL · JS |
 
-## 🛠️ Toolbox
+##  Toolbox
 
 **Comms & signals:** OFDM, channel estimation, link-level simulation, NTN, ECG/EDA processing
 **ML:** PyTorch, Sionna, scikit-learn
 **Code:** Python, C, SQL, Git
-## 🌍 Also
+##  Also
 
 Erasmus year at Beijing Institute of Technology · cybersecurity internship at GMV · core contributor to [Sputnik](https://321sputnik.com), a Sevillian network for young talent.
 
-## 📫 Contact
+##  Contact
 
 [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-varela-caraballo) · Paris, France
